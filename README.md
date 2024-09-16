@@ -23,3 +23,7 @@ Hi! My name is Kassim Amir, a student undertaking a BS in Information Technology
     Email: amir.kassim946@gmail.com, jumaamir352@gmail.com
     WhatsApp: +25479 9551 3867
     Website:  https://gentle-meadow-0b6cbe11e.5.azurestaticapps.net/
+
+#My Resume Site 🪪.
+  Created from LinkedIn resume workshop and deployed to GitHub pages. 
+  Includes my experience and design abilities.
