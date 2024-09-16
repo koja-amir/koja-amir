@@ -1,5 +1,5 @@
 #                                   _Kassim-Amir_
-#  //This repo will introduce me to the world of coders and programmers
+# This repo will introduce me to the world of coders and programmers.
 # Hi! My name is Kassim Amir, a student undertaking a BS in Information Technology 💻.
   I am passionate about advancing my skills in software development and database management, 
   and I am a certified Microsoft Office Specialist. My strong foundation in teamwork, 
@@ -17,7 +17,7 @@
 
 #     _CONTACT INFO(Social links)_
 #  
-#
+#![image](https://github.com/user-attachments/assets/d8c41a91-2751-4cde-85e5-93966c8f2f92)
 #
 #
 #
