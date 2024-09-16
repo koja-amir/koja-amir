@@ -1,5 +1,5 @@
 # PORTFOLIO
-![unnamed](https://github.com/user-attachments/assets/47de74a6-c137-4565-a565-f0db8b838a5d)
+![man-sitting](https://github.com/user-attachments/assets/47de74a6-c137-4565-a565-f0db8b838a5d)
 Hi! My name is Kassim Amir, a student undertaking a BS in Information Technology 💻.
   I am passionate about advancing my skills in software development and database management, 
   and I am a certified Microsoft Office Specialist. My strong foundation in teamwork, 
