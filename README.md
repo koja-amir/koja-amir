@@ -16,9 +16,9 @@
 #  Time Management & Organization ✅✅
 
 #     _CONTACT INFO(Social links)_
-#  
-#![image](https://github.com/user-attachments/assets/d8c41a91-2751-4cde-85e5-93966c8f2f92)
-#
-#
-#
-#
+#  Instagram: https://www.instagram.com/kojatechs/  
+#  Linkedin:  https://www.linkedin.com/in/koja-amir/
+#  X:  https://x.com/kassim_amir95
+#  Facebook:  https://web.facebook.com/kassim.amir95
+#  Email: amir.kassim946@gmail.com, jumaamir352@gmail.com
+#  WhatsApp: +25479 9551 3867
