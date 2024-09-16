@@ -1,4 +1,4 @@
-#                                   _Kassim-Amir_
+#                                   Kassim-Amir
 # This repo will introduce me to the world of coders and programmers.
 # Hi! My name is Kassim Amir, a student undertaking a BS in Information Technology 💻.
   I am passionate about advancing my skills in software development and database management, 
@@ -7,7 +7,7 @@
   abilities, helps me efficiently tackle challenges and collaborate effectively in dynamic environments. 
   I thrive in both individual and team settings and continuously seek to improve and innovate in the IT field 💪.
     
-#  *THESE ARE MY KEY SKILLS*
+#  THESE ARE MY KEY SKILLS.
 #  Software Development ✅✅
 #  Database Management ✅✅
 #  Microsoft Office Specialist ✅✅
@@ -15,7 +15,7 @@
 #  Problem-solving & Critical Thinking ✅✅
 #  Time Management & Organization ✅✅
 
-#     _CONTACT INFO(Social links)_
+#     CONTACT INFO(Social links)
 #  Instagram: https://www.instagram.com/kojatechs/  
 #  Linkedin:  https://www.linkedin.com/in/koja-amir/
 #  X:  https://x.com/kassim_amir95
