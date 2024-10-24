@@ -7,7 +7,7 @@ Hi! My name is Kassim Amir, a student undertaking a BS in Information Technology
   abilities, helps me efficiently tackle challenges and collaborate effectively in dynamic environments. 
   I thrive in both individual and team settings and continuously seek to improve and innovate in the IT field 💪.
   
-#       SKILLS.
+##       SKILLS.
   Software Development ✅✅
   Database Management ✅✅
   Microsoft Office Specialist ✅✅
@@ -15,15 +15,14 @@ Hi! My name is Kassim Amir, a student undertaking a BS in Information Technology
   Problem-solving & Critical Thinking ✅✅
   Time Management & Organization ✅✅
   
-#            CONTACTS
+##            CONTACTS
   Instagram: https://www.instagram.com/kojatechs/
-    Linkedin:  https://www.linkedin.com/in/koja-amir/
-    X:  https://x.com/kassim_amir95
-    Facebook:  https://web.facebook.com/kassim.amir95
+    Linkedin: https://www.linkedin.com/in/koja-amir/
+    X: https://x.com/kassim_amir95
+    Facebook: https://web.facebook.com/kassim.amir95
     Email: amir.kassim946@gmail.com, jumaamir352@gmail.com
-    WhatsApp: +25479 9551 3867
-    Website:  https://gentle-meadow-0b6cbe11e.5.azurestaticapps.net/
+    Website: https://gentle-meadow-0b6cbe11e.5.azurestaticapps.net/
 
-#My Resume Site 🪪.
+## My Resume Site 🪪.
   Created from LinkedIn resume workshop and deployed to GitHub pages. 
   Includes my experience and design abilities.
