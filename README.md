@@ -17,5 +17,5 @@ Hi! My name is Kassim Amir, a student undertaking a BS in Information Technology
   [![](https://skillicons.dev/icons?i=githubactions)](https://gentle-meadow-0b6cbe11e.5.azurestaticapps.net/)
 
 ### My Resume Site 🪪.
-  Created from LinkedIn resume workshop and deployed to GitHub pages. 
+  Created from LinkedIn resume workshop and deployed to GitHub pages. <br>
   Includes my experience and design abilities.
