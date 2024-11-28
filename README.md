@@ -22,6 +22,6 @@ Hi! My name is Kassim Amir, a student undertaking a BS in Information Technology
 ###    PROGRAMMING LANGUAGES
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=koja-amir&layout=donut&theme=transparent)](https://github.com/koja-amir/github-readme-stats)
 
-### My Resume Site 🪪.
+### MY RESUME.
   Created from LinkedIn resume workshop and deployed to GitHub pages. <br>
   Includes my experience and design abilities.
