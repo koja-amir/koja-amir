@@ -20,7 +20,7 @@ Hi! My name is Kassim Amir, a student undertaking a BS in Information Technology
 [![Amir's GitHub stats](https://github-readme-stats.vercel.app/api?username=koja-amir&show=prs_merged_percentage,reviews&show_icons=true&theme=transparent)](https://github.com/koja-amir/github-readme-stats)
 
 ###    PROGRAMMING LANGUAGES
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=koja-amir&layout=donut&theme=transparent)](https://github.com/koja-amir/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=koja-amir&layout=donut&theme=transparent&show_icons=true)](https://github.com/koja-amir/github-readme-stats)
 
 ### MY RESUME.
   Created from LinkedIn resume workshop and deployed to GitHub pages. <br>
